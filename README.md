@@ -1,0 +1,1 @@
+Olá, meu nome é Lucas Pinheiro e este repositório é um projeto do módulo de BackEnd da TRYBE, que se trata de uma API feita em JAVASCRIPT no NODE.JS, utitilizando como framework para gerenciar as requisições e rotas o EXPRESS, testando a usabilidade num contexto menor!!
